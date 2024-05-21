@@ -32,7 +32,7 @@ The integration of GPS-based detection, Packet Transmission Verification, and DP
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/legalcheng23/Karense_Detection-of-Wormhole-Attacks-in-VANETs.git
+    git clone https://github.com/legalcheng23/Karense-Detection-of-Wormhole-Attacks-in-VANETs.git
     ```
 
 2. Navigate to the project directory:
