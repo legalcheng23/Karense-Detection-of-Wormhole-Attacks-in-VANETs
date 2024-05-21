@@ -32,25 +32,25 @@ The integration of GPS-based detection, Packet Transmission Verification, and DP
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/legalcheng23/Karense_Detection-of-Wormhole-Attacks-in-VANETs.git)
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd <project_directory>
+    cd Karense_Detection-of-Wormhole-Attacks-in-VANETs
     ```
 
 3. Run the simulation:
     ```bash
-    python main.py
+    python Karense.py
     ```
 
 4. View the results:
-    Results will be stored in the output directory as CSV and plotted graphs.
+    Results will be stored in the output directory as excel.
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.9.x
 - Required Python libraries:
     - `numpy`
     - `matplotlib`
